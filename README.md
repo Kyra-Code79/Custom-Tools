@@ -31,6 +31,22 @@ An application designed to scrape data from **Facebook Marketplace**.
 
 ---
 
+### 3. 🛡️ K.Inc Pass Manager 
+**K.Inc Pass Manager** is a simple, secure, and lightweight password manager built with Flutter. Designed for personal use, it runs seamlessly on **Windows** and **Android**, ensuring your data is accessible wherever you are.
+
+**Features:**
+-   **🔒 Secure Local Storage**: All your passwords are encrypted locally using AES-256 encryption. Your master password is the key, and it is never stored.
+-   **💾 Smart Backup & Restore**:
+    -   Export your data to a JSON file.
+    -   **Redundancy Check**: Prevents duplicate entries during import.
+    -   **Version Control**: If a password has changed, the old password is automatically archived to the history.
+-   **📜 Password History**: View previous passwords for any account directly from the app.
+-   **📱 Cross-Platform**: Optimized for both Android and Windows (Desktop).
+-   **🎨 Adaptive Design**: Modern UI with Poppins font, Adaptive Icons on Android, and a customized Windows experience.
+-   **🚀 Fast & Offline**: No cloud dependencies. You own your data.
+
+---
+
 ## 🚀 Purpose of This Repository
 - Central place to store and manage my tools
 - Showcase projects and utilities I’ve created
